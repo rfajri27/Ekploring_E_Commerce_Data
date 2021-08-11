@@ -72,8 +72,8 @@ Untuk memperoleh jumlah transaksi per bulan, dilakukan perubahan frekuensi data 
 ### Status Transaksi
 * Jumlah transaksi yang tidak dibayar : 5046
 * Jumlah transaksi yang tidak dikirim, baik yang sudah dibayar maupun belum dibayar : 9790
-* Jumlah transaksi yang dikirim pada hari yang sama dengan tanggal bayar : 4588
 * Jumlah transaksi yang sudah dibayar tapi tidak dikirim : 4744
+* Jumlah transaksi yang dikirim pada hari yang sama dengan tanggal bayar : 4588
 
 ### Status User
 * Jumlah seluruh user : 17936
