@@ -1,14 +1,14 @@
 # Exploring E-Commerce Data
 
-Project ini merupakan salah satu modul project-based yang telah saya selesaikan di DQLab Academy. Project ini menggunakan dataset yang berisi transaksi dari Januari 2019 hingga Mei 2020, dataset yang digunakan terdiri dari:
+Project ini merupakan salah satu modul project-based yang telah saya selesaikan di DQLab Academy. Project ini menggunakan dataset DQLab Store yang berisi transaksi bulan Januari 2019 hingga Mei 2020, dataset yang digunakan terdiri dari:
 1.  user dataset, berisi detail data pengguna yang terdiri dari:
-    * user_id : ID pengguna
-    * nama_user : nama pengguna
-    * kodepos : kodepos alamat utama dari pengguna
-    * email : email dari pengguna
+	* user_id : ID pengguna
+	* nama_user : nama pengguna
+	* kodepos : kodepos alamat utama dari pengguna
+	* email : email dari pengguna
 2. products dataset, berisi detail data dari produk yang dijual yang terdiri dari:
 	* product_id : ID produk
-    * desc_product : nama produk
+	* desc_product : nama produk
 	* category : kategori produk
 	* base_price : harga asli dari produk
 3. orders dataset, berisi transaksi pembelian dari pembeli ke penjual yang terdiri dari:
