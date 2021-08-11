@@ -1,4 +1,4 @@
-# Ekploring_E_Commerce_Data
+# Exploring E-Commerce Data
 
 Project ini merupakan salah satu modul project-based yang telah saya selesaikan di DQLab Academy. Project ini menggunakan dataset yang berisi transaksi dari Januari 2019 hingga Mei 2020, dataset yang digunakan terdiri dari:
 1.  user dataset, berisi detail data pengguna 
