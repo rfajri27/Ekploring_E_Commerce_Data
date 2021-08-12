@@ -85,7 +85,7 @@ Untuk memperoleh jumlah transaksi per bulan, dilakukan perubahan frekuensi data 
 * Jumlah user yang pernah bertransaksi sebagai seller & buyyer:  69
 * Jumlah user yang belum pernah bertransaksi:  59
 
-#### Sepuluh Produk Terlaris
+#### Produk Terlaris
 Untuk memperoleh 10 produk terlalris, dilakukan **grouping** berdasarkan *product_id* lalu dihitung jumlah *quantity* order.
 ![](images/order_amount_category.png)
 |product_id|	quantity|	desc_product|	category|
