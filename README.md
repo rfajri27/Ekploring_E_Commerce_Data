@@ -32,6 +32,8 @@ Dataset yang digunakan pada project ini merupakan dataset dari salah satu modul 
 ## Berikut Merupakan Hasil Eksplorasi
 ### Jumlah Produk per Kategori 
 Untuk mendapatkan jumlah produk per kategori, dilakukan **grouping** berdasarkan *category* lalu dihitung jumlah produk tiap kategori
+
+![](images/total_product_category.png)
 | category | jumlah |
 | ----------- | ----------- |
 |Kebersihan Diri|          434
@@ -49,6 +51,7 @@ Untuk mendapatkan jumlah produk per kategori, dilakukan **grouping** berdasarkan
 
 ### Jumlah Transaksi per Bulan
 Untuk memperoleh jumlah transaksi per bulan, dilakukan perubahan frekuensi data dari frekuensi harian (daily) menjadi frekuensi bulanan (monthly) dan menghitung jumlah order tiap bulan.
+![](images/monthly_order.png)
  | create_at | jumlah_transaksi |
  | ----------- | ----------- |
 |2019-01|      117
@@ -84,7 +87,7 @@ Untuk memperoleh jumlah transaksi per bulan, dilakukan perubahan frekuensi data 
 
 #### Sepuluh Produk Terlaris
 Untuk memperoleh 10 produk terlalris, dilakukan **grouping** berdasarkan *product_id* lalu dihitung jumlah *quantity* order.
-
+![](images/order_amount_category.png)
 |product_id|	quantity|	desc_product|	category|
 | ----------- | ----------- | ----------- | ----------- |
 |983|	6270|	Vaseline Lotion Healthy White Uv Lightening 20...|	Kebersihan Diri
